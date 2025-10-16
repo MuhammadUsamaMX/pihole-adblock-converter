@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-10-16T08:08:59.675035+00:00",
-  "total_domains": 342283,
+  "timestamp": "2025-10-16T08:10:24.164036+00:00",
+  "total_domains": 342304,
   "processed_lists": [
     {
       "name": "AdGuard DNS filter",
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-      "domains": 140679,
+      "domains": 140700,
       "status": "success"
     },
     {
