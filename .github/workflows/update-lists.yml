@@ -22,6 +22,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
+        token: ${{ secrets.TOKENFORACTION }}
         fetch-depth: 0
     
     - name: Set up Python
@@ -97,7 +98,7 @@ jobs:
         draft: false
         prerelease: false
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.TOKENFORACTION }}
     
     - name: Update README stats
       if: steps.changes.outputs.changed == 'true'
