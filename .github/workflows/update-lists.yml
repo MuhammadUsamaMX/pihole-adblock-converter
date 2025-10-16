@@ -14,12 +14,14 @@ on:
 jobs:
   update-lists:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 0
     
     - name: Set up Python
@@ -59,7 +61,7 @@ jobs:
         git config --local user.name "GitHub Action"
         git add pihole_list.txt summary.json
         git commit -m "Update Pi-hole blocklist - $(date '+%Y-%m-%d %H:%M:%S UTC')"
-        git push origin main
+        git push
     
     - name: Create release
       if: steps.changes.outputs.changed == 'true'
