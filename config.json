@@ -46,11 +46,6 @@
       "format": "adblock"
     },
     {
-      "name": "ITA: Filtri-DNS",
-      "url": "https://filtri-dns.ga/filtri.txt",
-      "format": "adblock"
-    },
-    {
       "name": "Dandelion Sprout's Anti-Malware List",
       "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt",
       "format": "adblock"
@@ -108,6 +103,376 @@
     {
       "name": "Smart-TV Blocklist (AdGuard)",
       "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "EasyList",
+      "url": "https://easylist.to/easylist/easylist.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "EasyPrivacy",
+      "url": "https://easylist.to/easylist/easyprivacy.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "Fanboy's Enhanced Tracking List",
+      "url": "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "Fanboy's Social Blocking List",
+      "url": "https://secure.fanboy.co.nz/fanboy-social.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "uBlock Origin Filters",
+      "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "uBlock Origin Privacy Filters",
+      "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "uBlock Origin Annoyances",
+      "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Base Filter",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/2.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Tracking Protection",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/3.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Social Media",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/4.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Annoyances",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/14.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Mobile Ads",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/11.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Chinese",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/224.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Russian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/1.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard German",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/6.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard French",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/16.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Japanese",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/7.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Spanish/Portuguese",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/8.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Turkish",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/13.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Dutch",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/9.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Arabic",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/15.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Vietnamese",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/12.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Korean",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/5.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Italian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/10.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Polish",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/18.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Czech/Slovak",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/19.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Lithuanian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/20.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Latvian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/21.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Estonian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/22.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Ukrainian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/23.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Bulgarian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/24.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Croatian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/25.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Romanian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/26.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Serbian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/27.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Slovenian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/28.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Hungarian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/29.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Greek",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/30.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Hebrew",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/31.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Thai",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/32.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Indonesian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/33.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Malay",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/34.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Filipino",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/35.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Hindi",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/36.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Bengali",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/37.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Tamil",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/38.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Telugu",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/39.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Gujarati",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/40.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Marathi",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/41.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Punjabi",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/42.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Kannada",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/43.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Malayalam",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/44.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Assamese",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/45.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Oriya",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/46.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Bhojpuri",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/47.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Nepali",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/48.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Sinhala",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/49.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Urdu",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/50.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Persian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/51.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Pashto",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/52.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Kurdish",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/53.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Azerbaijani",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/54.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Georgian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/55.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Armenian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/56.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Kazakh",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/57.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Kyrgyz",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/58.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Tajik",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/59.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Turkmen",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/60.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Uzbek",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/61.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Mongolian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/62.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Tibetan",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/63.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Dzongkha",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/64.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Burmese",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/67.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Khmer",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/68.txt",
+      "format": "adblock"
+    },
+    {
+      "name": "AdGuard Lao",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/69.txt",
       "format": "adblock"
     }
   ],
