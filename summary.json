@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-10-16T08:15:24.883850+00:00",
-  "total_domains": 342304,
+  "timestamp": "2025-10-16T08:25:44.866085+00:00",
+  "total_domains": 620517,
   "processed_lists": [
     {
       "name": "AdGuard DNS filter",
@@ -35,7 +35,7 @@
     {
       "name": "Peter Lowe's List",
       "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
-      "domains": 3439,
+      "domains": 3444,
       "status": "success"
     },
     {
@@ -126,6 +126,186 @@
       "name": "Smart-TV Blocklist (AdGuard)",
       "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt",
       "domains": 144,
+      "status": "success"
+    },
+    {
+      "name": "EasyList",
+      "url": "https://easylist.to/easylist/easylist.txt",
+      "domains": 65153,
+      "status": "success"
+    },
+    {
+      "name": "EasyPrivacy",
+      "url": "https://easylist.to/easylist/easyprivacy.txt",
+      "domains": 48526,
+      "status": "success"
+    },
+    {
+      "name": "Fanboy's Enhanced Tracking List",
+      "url": "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
+      "domains": 39699,
+      "status": "success"
+    },
+    {
+      "name": "Fanboy's Social Blocking List",
+      "url": "https://secure.fanboy.co.nz/fanboy-social.txt",
+      "domains": 11539,
+      "status": "success"
+    },
+    {
+      "name": "uBlock Origin Filters",
+      "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt",
+      "domains": 5199,
+      "status": "success"
+    },
+    {
+      "name": "uBlock Origin Privacy Filters",
+      "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt",
+      "domains": 691,
+      "status": "success"
+    },
+    {
+      "name": "uBlock Origin Annoyances",
+      "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt",
+      "domains": 0,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Base Filter",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/2.txt",
+      "domains": 103727,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Tracking Protection",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/3.txt",
+      "domains": 113236,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Social Media",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/4.txt",
+      "domains": 14595,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Annoyances",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/14.txt",
+      "domains": 46621,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Mobile Ads",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/11.txt",
+      "domains": 6716,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Chinese",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/224.txt",
+      "domains": 14762,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Russian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/1.txt",
+      "domains": 13112,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard German",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/6.txt",
+      "domains": 8228,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard French",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/16.txt",
+      "domains": 11745,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Japanese",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/7.txt",
+      "domains": 10011,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Spanish/Portuguese",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/8.txt",
+      "domains": 1406,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Turkish",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/13.txt",
+      "domains": 4541,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Dutch",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/9.txt",
+      "domains": 4179,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Arabic",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/15.txt",
+      "domains": 140583,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Vietnamese",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/12.txt",
+      "domains": 0,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Korean",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/5.txt",
+      "domains": 13,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Italian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/10.txt",
+      "domains": 216,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Polish",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/18.txt",
+      "domains": 16421,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Czech/Slovak",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/19.txt",
+      "domains": 17778,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Lithuanian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/20.txt",
+      "domains": 3423,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Latvian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/21.txt",
+      "domains": 7021,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Estonian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/22.txt",
+      "domains": 2037,
+      "status": "success"
+    },
+    {
+      "name": "AdGuard Ukrainian",
+      "url": "https://filters.adtidy.org/extension/chromium/filters/23.txt",
+      "domains": 4063,
       "status": "success"
     }
   ],
