@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-16T07:47:02.524738+00:00",
+  "timestamp": "2025-10-16T08:08:59.675035+00:00",
   "total_domains": 342283,
   "processed_lists": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Peter Lowe's List",
       "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
-      "domains": 3444,
+      "domains": 3439,
       "status": "success"
     },
     {
