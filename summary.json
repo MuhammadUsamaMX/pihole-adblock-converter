@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-29T08:42:51.448911+00:00",
-  "total_domains": 889643,
+  "timestamp": "2026-08-30T08:00:19.244828+00:00",
+  "total_domains": 890452,
   "processed_lists": [
     {
       "name": "AdGuard DNS filter",
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-      "domains": 178371,
+      "domains": 178664,
       "status": "success"
     },
     {
@@ -35,13 +35,13 @@
     {
       "name": "Peter Lowe's List",
       "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
-      "domains": 3522,
+      "domains": 3538,
       "status": "success"
     },
     {
       "name": "Scam Blocklist",
       "url": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt",
-      "domains": 951,
+      "domains": 954,
       "status": "success"
     },
     {
@@ -53,13 +53,13 @@
     {
       "name": "Online Malicious URL Blocklist",
       "url": "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt",
-      "domains": 494,
+      "domains": 489,
       "status": "success"
     },
     {
       "name": "Dandelion Sprout's Anti-Malware List",
       "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt",
-      "domains": 11787,
+      "domains": 11786,
       "status": "success"
     },
     {
@@ -71,19 +71,19 @@
     {
       "name": "OISD Blocklist Basic",
       "url": "https://abp.oisd.nl/basic/",
-      "domains": 59161,
+      "domains": 59391,
       "status": "success"
     },
     {
       "name": "Phishing URL Blocklist",
       "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt",
-      "domains": 37145,
+      "domains": 37196,
       "status": "success"
     },
     {
       "name": "Malicious URL Blocklist",
       "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt",
-      "domains": 5152,
+      "domains": 5108,
       "status": "success"
     },
     {
@@ -113,7 +113,7 @@
     {
       "name": "OISD Blocklist Full",
       "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
-      "domains": 269329,
+      "domains": 270058,
       "status": "success"
     },
     {
@@ -131,25 +131,25 @@
     {
       "name": "EasyList",
       "url": "https://easylist.to/easylist/easylist.txt",
-      "domains": 70151,
+      "domains": 70437,
       "status": "success"
     },
     {
       "name": "EasyPrivacy",
       "url": "https://easylist.to/easylist/easyprivacy.txt",
-      "domains": 49595,
+      "domains": 49597,
       "status": "success"
     },
     {
       "name": "Fanboy's Enhanced Tracking List",
       "url": "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
-      "domains": 41546,
+      "domains": 41549,
       "status": "success"
     },
     {
       "name": "Fanboy's Social Blocking List",
       "url": "https://secure.fanboy.co.nz/fanboy-social.txt",
-      "domains": 11324,
+      "domains": 11325,
       "status": "success"
     },
     {
@@ -161,7 +161,7 @@
     {
       "name": "uBlock Origin Privacy Filters",
       "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt",
-      "domains": 1075,
+      "domains": 1076,
       "status": "success"
     },
     {
@@ -173,7 +173,7 @@
     {
       "name": "AdGuard Base Filter",
       "url": "https://filters.adtidy.org/extension/chromium/filters/2.txt",
-      "domains": 114650,
+      "domains": 114995,
       "status": "success"
     },
     {
@@ -185,25 +185,25 @@
     {
       "name": "AdGuard Social Media",
       "url": "https://filters.adtidy.org/extension/chromium/filters/4.txt",
-      "domains": 15574,
+      "domains": 15575,
       "status": "success"
     },
     {
       "name": "AdGuard Annoyances",
       "url": "https://filters.adtidy.org/extension/chromium/filters/14.txt",
-      "domains": 52546,
+      "domains": 52549,
       "status": "success"
     },
     {
       "name": "AdGuard Mobile Ads",
       "url": "https://filters.adtidy.org/extension/chromium/filters/11.txt",
-      "domains": 7365,
+      "domains": 7366,
       "status": "success"
     },
     {
       "name": "AdGuard Chinese",
       "url": "https://filters.adtidy.org/extension/chromium/filters/224.txt",
-      "domains": 16209,
+      "domains": 16225,
       "status": "success"
     },
     {
@@ -221,13 +221,13 @@
     {
       "name": "AdGuard French",
       "url": "https://filters.adtidy.org/extension/chromium/filters/16.txt",
-      "domains": 10507,
+      "domains": 10508,
       "status": "success"
     },
     {
       "name": "AdGuard Japanese",
       "url": "https://filters.adtidy.org/extension/chromium/filters/7.txt",
-      "domains": 10499,
+      "domains": 10500,
       "status": "success"
     },
     {
@@ -245,13 +245,13 @@
     {
       "name": "AdGuard Dutch",
       "url": "https://filters.adtidy.org/extension/chromium/filters/9.txt",
-      "domains": 4693,
+      "domains": 4694,
       "status": "success"
     },
     {
       "name": "AdGuard Arabic",
       "url": "https://filters.adtidy.org/extension/chromium/filters/15.txt",
-      "domains": 178181,
+      "domains": 178569,
       "status": "success"
     },
     {
@@ -281,7 +281,7 @@
     {
       "name": "AdGuard Czech/Slovak",
       "url": "https://filters.adtidy.org/extension/chromium/filters/19.txt",
-      "domains": 20315,
+      "domains": 20317,
       "status": "success"
     },
     {
@@ -293,7 +293,7 @@
     {
       "name": "AdGuard Latvian",
       "url": "https://filters.adtidy.org/extension/chromium/filters/21.txt",
-      "domains": 7897,
+      "domains": 7898,
       "status": "success"
     },
     {
