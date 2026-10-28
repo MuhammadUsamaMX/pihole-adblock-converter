@@ -58,8 +58,8 @@ jobs:
     - name: Commit and push changes
       if: steps.changes.outputs.changed == 'true'
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "55662931+MuhammadUsamaMX@users.noreply.github.com"
+        git config --local user.name "MuhammadUsamaMX"
         git add pihole_list.txt summary.json
         git commit -m "Update Pi-hole blocklist - $(date '+%Y-%m-%d %H:%M:%S UTC')"
         git push
