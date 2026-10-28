@@ -66,7 +66,7 @@ jobs:
     
     - name: Create release
       if: steps.changes.outputs.changed == 'true'
-      uses: softprops/action-gh-release@v1
+      uses: softprops/action-gh-release@v3
       with:
         tag_name: v${{ github.run_number }}
         name: Pi-hole Blocklist Update $(date '+%Y-%m-%d %H:%M:%S UTC')
